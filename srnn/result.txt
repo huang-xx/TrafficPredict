@@ -1,0 +1,4 @@
+AVG disp error:     pedestrian: 0.08831971138715744       bicycle: 0.07524546980857849        car:0.08964916318655014
+total average error:    0.08440478146076202
+Final disp error:   pedestrian: 0.13249891996383667       bicycle: 0.11463329941034317        car:0.15286073088645935
+total final error:    0.13333098590373993
