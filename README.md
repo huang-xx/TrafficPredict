@@ -11,3 +11,16 @@ The repo has been forked initially from [Anirudh Vemula](https://github.com/vvan
 |   vehicle  |    0.080   |     0.090     |    0.131   |     0.153     |
 |    total   |    0.085   |     0.084     |    0.141   |     0.133     |
 
+## Requirements
+
+* Python 3
+* Seaborn (https://seaborn.pydata.org/)
+* PyTorch (http://pytorch.org/)
+* Numpy
+* Matplotlib
+* Scipy
+
+## How to Run
+* First 'cd srnn'
+* To train the model run python train.py (See the code to understand all the arguments that can be given to the command)
+* To test the model run python sample.py --epoch=n where n is the epoch at which you want to load the saved model. (See the code to understand all the arguments that can be given to the command)
